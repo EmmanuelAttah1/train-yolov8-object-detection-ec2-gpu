@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=2xmpCchQrHQ">
-    <img width="100%" src="thumbnail.jpg" alt="Watch the video">
+    <img width="100%" src="thumbnail2.jpg" alt="Watch the video">
 </a>
 </p>
 
